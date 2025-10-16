@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://github.com/NafidzAlifah/NafidzAlifah/blob/main/banner.png?raw=true" alt="Banner Profil Nafidz Alifah" width="100%" />
+  <img src="https://github.com/NafidzAlifah/NafidzAlifah/blob/main/github-header-banner.png?raw=true" alt="Banner Profil Nafidz Alifah" width="100%" />
 </p>
 
 <h3 align="center">✨ Selamat datang di profil GitHub saya! ✨</h3>
